@@ -1,27 +1,47 @@
-## First Name Last Name
+## Nicolas Garay
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to data science
 
-- Course 2
+- Introduction to business finance
 
-- Course 3
+- Art appreciation
 
-- Course 4
+- Entrepreneurial opportunity analysis
+
+- Law, public policy , negotiation, and business
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Playing sports
 
-- Thing 2
+- Playing video games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Travelling the world
 
 ***
+#Images
 
-> Last modified: YYYY/MM/DD
+Here's an image:
+
+![data Network](dataNetwork.jpg)
+
+Here's an image from the web:
+
+![IST](https://floridapoly.edu/news/articles/2020/10/assets/1014-gradstudentrecruitment.jpg)
+
+
+#Table
+
+Below is a sample table:
+
+|   Tool name   |             Used for            |
+|:--------------|--------------------------------:|
+|  R            | Data wrangling, data viz, stats |
+|  Python       | Data modeling, deploying apps   |
+|  Git          | Version control                 |
